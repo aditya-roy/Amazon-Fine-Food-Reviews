@@ -1,6 +1,9 @@
 # Amazon-Fine-Food-Reviews
 Amazon Fine Food Reviews analysis and modelling using various machine learning models
-Performed Exploratory Data Analysis, Data Cleaning, Data Visualization and Text Featurization(BOW, tfidf, Word2Vec). Build several ML models like KNN, Naive Bayes, Logistic Regression.
+Performed Exploratory Data Analysis, Data Cleaning, Data Visualization and Text Featurization(BOW, tfidf, Word2Vec). 
+Build several superviesd ML models like KNN, Naive Bayes, Logistic Regression.
+Build several unsupervised ML models like K-Means, Agglomerative and DBSCAN clustering.
+Build Deep Learning Model using LSTM.
 Data Source: https://www.kaggle.com/snap/amazon-fine-food-reviews
 
 The Amazon Fine Food Reviews dataset consists of reviews of fine foods from Amazon.
